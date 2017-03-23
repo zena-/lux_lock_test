@@ -3,7 +3,7 @@
 body{
     /*height:400px;*/
     /*position: fixed;*/
-    bottom: 0;
+    /*bottom: 0;*/
 }
 .ML {
 	text-transform: uppercase;
@@ -29,7 +29,7 @@ body{
     margin-bottom: 0px;
 }
 .chat-window{
-    bottom:-19px;
+    bottom:0px;
     position: absolute;
     /*float:right;*/
     /*margin-left:10px;*/
@@ -61,7 +61,7 @@ body{
     /*border-style: outset;*/
 }
 .msg_sent{
-    padding:5px 0 !important;
+    padding:0;
     margin-right:0;
     /*border-style: outset;*/
 }
